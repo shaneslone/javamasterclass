@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section4;
 
 public class SpeedConverter {
     public static long toMilesPerHour(double kilometersPerHour){

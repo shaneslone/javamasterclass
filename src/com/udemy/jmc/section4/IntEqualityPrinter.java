@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section4;
 
 public class IntEqualityPrinter {
     public static void printEqual(int num1, int num2, int num3){

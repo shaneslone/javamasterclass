@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section4;
 
 public class DecimalComparator {
     public static boolean areEqualByThreeDecimalPlaces(double num1, double num2){

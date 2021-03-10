@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section5;
 
 public class SumOddRange {
     public static boolean isOdd(int num){

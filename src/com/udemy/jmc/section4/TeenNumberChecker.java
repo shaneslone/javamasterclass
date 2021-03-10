@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section4;
 
 public class TeenNumberChecker {
     public static boolean hasTeen(int num1, int num2, int num3){

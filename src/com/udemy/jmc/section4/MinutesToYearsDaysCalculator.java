@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section4;
 
 public class MinutesToYearsDaysCalculator {
     public static void printYearsAndDays(long minutes){

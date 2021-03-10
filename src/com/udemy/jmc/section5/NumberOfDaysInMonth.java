@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section5;
 
 public class NumberOfDaysInMonth {
     public static boolean isLeapYear(int year){

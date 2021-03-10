@@ -1,4 +1,4 @@
-package com.udemy.jmc;
+package com.udemy.jmc.section5;
 
 public class NumberInWord {
     public static void printNumberInWord(int num){
