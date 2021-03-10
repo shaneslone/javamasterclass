@@ -1,12 +1,12 @@
 package com.udemy.jmc;
 
-import com.udemy.jmc.section5.EvenDigitSum;
+import com.udemy.jmc.section5.SharedDigit;
 
 public class Main {
 
     public static void main(String[] args) {
-        EvenDigitSum eds = new EvenDigitSum();
-        System.out.println(eds.getEvenDigitSum(-123456));
+        SharedDigit sd = new SharedDigit();
+        System.out.println(sd.hasSharedDigit(22, 2));
     }
 
 }
