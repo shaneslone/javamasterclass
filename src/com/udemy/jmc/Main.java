@@ -1,13 +1,12 @@
 package com.udemy.jmc;
 
-
-import com.udemy.jmc.section5.GreatestCommonDivisor;
+import com.udemy.jmc.section5.PerfectNumber;
 
 public class Main {
 
     public static void main(String[] args) {
-        GreatestCommonDivisor gcd = new GreatestCommonDivisor();
-        System.out.println(gcd.getGreatestCommonDivisor(12, 30));
+        PerfectNumber pn = new PerfectNumber();
+        System.out.println(pn.isPerfectNumber(6));
     }
 
 }
