@@ -16,8 +16,6 @@ public class InputCalculator {
                 System.out.println("SUM = " + sum + " AVG = " + Math.round((double)sum / totalNumbers));
                 break;
             }
-
-
         }
     }
 }
