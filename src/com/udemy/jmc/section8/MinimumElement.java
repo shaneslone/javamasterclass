@@ -3,8 +3,8 @@ package com.udemy.jmc.section8;
 import java.util.Scanner;
 
 public class MinimumElement {
+    private static final Scanner scanner = new Scanner(System.in);
     public static int readInteger(){
-        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter length of the array");
         int length = scanner.nextInt();
         return length;
@@ -12,7 +12,6 @@ public class MinimumElement {
 
     public static int[] readElements(int length){
         int[] array = new int[length];
-        Scanner scanner = new Scanner(System.in);
         for (int i = 0; i < length; i++){
             System.out.println("Enter element " + (i+1));
             array[i] = scanner.nextInt();
